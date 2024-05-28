@@ -13,4 +13,3 @@
 
 ### Social media:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0909092?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/kermen-gunaeva/)
-
