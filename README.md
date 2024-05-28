@@ -1,4 +1,4 @@
-![Header](https://github.com/kermengunaeva/kermengunaeva/blob/main/assets/new-yourk4_1920.jpg)]
+![Header](https://github.com/kermengunaeva/kermengunaeva/blob/main/assets/new-yourk4_1920.jpg)
 
 About me
 
