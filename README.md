@@ -16,5 +16,7 @@
 
 -[Test Case](https://docs.google.com/spreadsheets/d/1MEsWU_48Dx4ncwbArU1iU_PMhHdF6NbsJHh-hQlWo4Y/edit?usp=sharing)
 
+-[Bug reports in Jira](https://drive.google.com/file/d/1K2nosvkcoxXzNhwWGdtHS7PhAxfnr5iC/view?usp=sharing)(https://drive.google.com/file/d/1EynhW-Gro7T9nnH1dFIk1qP3DCk4d99V/view?usp=sharing)
+
 ### Social media:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/kermen-gunaeva/)
