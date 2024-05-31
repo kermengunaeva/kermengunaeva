@@ -12,9 +12,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=#4479A1)
 
 ### Testing Documentation
--[Checklist](https://docs.google.com/spreadsheets/d/1clKgWNVUUiFOWGhrfKlRtIrfZGWQj4UeY3t0IFGWUa8/edit?usp=sharing)
+-[Checklist for Feedback Form](https://docs.google.com/spreadsheets/d/1clKgWNVUUiFOWGhrfKlRtIrfZGWQj4UeY3t0IFGWUa8/edit?usp=sharing)
 
--[Test Case](https://docs.google.com/spreadsheets/d/1MEsWU_48Dx4ncwbArU1iU_PMhHdF6NbsJHh-hQlWo4Y/edit?usp=sharing)
+-[Test Case for Registration via email](https://docs.google.com/spreadsheets/d/1MEsWU_48Dx4ncwbArU1iU_PMhHdF6NbsJHh-hQlWo4Y/edit?usp=sharing)
 
 -[Bug reports in Jira](https://github.com/kermengunaeva/bugreports/tree/main/assets)
 
