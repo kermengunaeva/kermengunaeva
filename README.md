@@ -18,5 +18,10 @@
 
 -[Bug reports in Jira](https://github.com/kermengunaeva/bugreports/tree/main/assets)
 
+-[Tables in MySQL](https://drive.google.com/file/d/1mXYHoLZCqB--ZDbeIQqx79TWUjQ-ITGV/view?usp=sharing)
+
 ### Social media:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/kermen-gunaeva/)
+
+
+[def]: https://drive.google.com/file/d/1mXYHoLZCqB--ZDbeIQqx79TWUjQ-ITGV/view?usp=sharing
