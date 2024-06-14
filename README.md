@@ -20,6 +20,8 @@
 
 -[Tables in MySQL](https://drive.google.com/file/d/1mXYHoLZCqB--ZDbeIQqx79TWUjQ-ITGV/view?usp=sharing)
 
+-[Postman Collection](https://github.com/kermengunaeva/Postman/tree/main/assets)
+
 ### Social media:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/kermen-gunaeva/)
 
